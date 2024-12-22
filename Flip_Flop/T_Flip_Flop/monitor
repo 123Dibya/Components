@@ -1,0 +1,10 @@
+At time 0: reset = 1, t = 0, q = 0
+At time 10000: reset = 0, t = 0, q = 0
+At time 20000: reset = 0, t = 1, q = 0
+At time 25000: reset = 0, t = 1, q = 1
+At time 35000: reset = 0, t = 1, q = 0
+At time 40000: reset = 0, t = 0, q = 0
+At time 60000: reset = 0, t = 1, q = 0
+At time 65000: reset = 0, t = 1, q = 1
+At time 75000: reset = 0, t = 1, q = 0
+At time 85000: reset = 0, t = 1, q = 1
